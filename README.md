@@ -1,6 +1,7 @@
 # LLD_Using_Java
 The main concept here is to create a Low Level design Model using java.
 This project features an Online Shoping interface Where there exists four different modules.
+
 1.Profile Service
   We have implemented three different method in this class:
   method-1:register()
@@ -29,6 +30,7 @@ This project features an Online Shoping interface Where there exists four differ
   method-2:buyitem()
       this method is used to but the items from the cart which reduces the quantity of the items from the  
       inventory
+      
 4.Payment Service
   The payment service class is responsible for making payment to the items bought
   method-1:makepayment()
